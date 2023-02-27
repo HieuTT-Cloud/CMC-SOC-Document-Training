@@ -1,0 +1,7 @@
+CenOS 7.7: https://drive.google.com/file/d/1Q7QaR3C3FM8MQmskpsFT83hSwmtOX87g/view?usp=sharing
+Ubuntu 20.04 Server: https://drive.google.com/file/d/1gvbJq9YxtgPYU3-0bopjizSgAp9QsOeF/view?usp=sharing
+Ubuntu 18.04 Server lite: https://drive.google.com/file/d/1gbvIG1_nxQwDJmBPjwM2o2xGfagA_yq6/view?usp=sharing
+Virtual box: https://drive.google.com/file/d/1HukXR3yXD3TS68vGpm3zQgVYYcEfqMmD/view?usp=sharing
+VMware workstation Pro 15.5: https://drive.google.com/file/d/1L9YGSKhY_jqWYFwiGOZ952dstBJfuuyH/view?usp=sharing
+
+ALL: https://drive.google.com/drive/folders/1fDLYwZwKJ57EVx0-eafk41fpl6PAbS8L?usp=sharing 

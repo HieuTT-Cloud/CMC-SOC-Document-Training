@@ -1,0 +1,16 @@
+1. Linux Filesystem Hierachical, File Type
+2. Cú pháp câu lệnh, 1 vài lệnh cơ bản, biến môi trường
+3. Tìm hiểu về Package Manager
+4. Finding File/Folder,Archive File file system links
+5. Understand vi(vim), Processing Text
+6. Stream, pipes, redirect input output
+-----------------------------------------------------------------------------------------
+7. Quá trình boot của linux, run level
+8. File nhạy cảm(/etc/passwd, /etc/shadow, /etc/sudoers, /etc/crontab /etc/fstab /etc/group ~/.ssh/authorized_keys)
+9. File permission(cả quyền đặc biệt) umask
+10. Process Management
+11. System logging
+12 .Bashscript
+-----------------------------------------------------------------------------------------
+13. Tìm hiểu về Log Windows
+14. Đọc Log và các eventID quan trọng
