@@ -1,4 +1,4 @@
-1. Linux Filesystem Hierachical, File Type
+1. Linux Filesystem Hierachical, File Type, Path
 2. Cú pháp câu lệnh, 1 vài lệnh cơ bản, biến môi trường
 3. Tìm hiểu về Package Manager
 4. Finding File/Folder,Archive File file system links
